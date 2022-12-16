@@ -1,5 +1,5 @@
 <html>
-<head><title>ini digunakan untuk judul</title></head>
+<head><title>UAS AWAN</title></head>
 <body>
 
 <h3>UPLOAD GAMBAR KAMU DISINI</h3><br/>
